@@ -1646,5 +1646,12 @@
     "fetchContractCreationTxUsing": {
       "avalancheApi": true
     }
+  },
+  "11227": {
+    "sourcifyName": "Jiritsu Testnet Subnet",
+    "supported": true,
+    "fetchContractCreationTxUsing": {
+      "avalancheApi": true
+    }
   }
 }
